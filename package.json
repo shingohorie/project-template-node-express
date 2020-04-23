@@ -1,0 +1,20 @@
+{
+  "name": "",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {},
+  "engines": {},
+  "author": "",
+  "license": "ISC",
+  "homepage": ""
+}
